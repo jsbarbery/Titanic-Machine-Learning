@@ -7,6 +7,8 @@ Welcome to the Titanic Machine Learning Challenge! This project is based on the 
 ### Background
 The sinking of the Titanic in 1912 is one of the most infamous shipwrecks in history. It resulted in the loss of over 1,500 lives out of around 2,224 passengers and crew aboard the ship. The dataset used in this challenge contains information about these passengers and their fate, including whether they survived or not, their age, gender, ticket class, cabin, fare, and more. By analyzing this data and building a predictive model, we aim to understand the factors that contributed to survival during this tragic event.
 
+![Loading GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBkc3Y5b2F2dnloN2hhcDk2MzB4bWszcHZ4NmppYXlycnY2cHo5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlR1TxQqjVLna/giphy.gif)
+
 ### Objectives
 The main objectives of this project are:
 - **Exploratory Data Analysis (EDA):** Explore and analyze the Titanic dataset to gain insights into the passengers' demographics and survival rates.
