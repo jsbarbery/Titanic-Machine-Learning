@@ -33,6 +33,3 @@ The project will be organized into the following sections:
 4. **Model Building and Evaluation:** Build machine learning models, evaluate them using cross-validation, and select the best-performing model.
 5. **Model Optimization:** Fine-tune hyperparameters, address overfitting, and improve model performance.
 6. **Conclusion and Future Work:** Summarize findings, discuss limitations, and propose future enhancements.
-
-## How to Use This Repository
-1. **Clone the Repository:** Use Git to clone the repository to your local machine:
