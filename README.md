@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Titanic Machine Learning Challenge! This project is based on the famous Kaggle competition where participants are tasked with predicting survival on the Titanic using machine learning techniques.
+Welcome to the Titanic Machine Learning Challenge! This project is based on the famous Kaggle competition where participants are tasked with predicting survival on the Titanic using machine learning techniques. I will attempt this challenge by providing a machine learning model that adjusts to the objective. 
 
 ### Background
 The sinking of the Titanic in 1912 is one of the most infamous shipwrecks in history. It resulted in the loss of over 1,500 lives out of around 2,224 passengers and crew aboard the ship. The dataset used in this challenge contains information about these passengers and their fate, including whether they survived or not, their age, gender, ticket class, cabin, fare, and more. By analyzing this data and building a predictive model, we aim to understand the factors that contributed to survival during this tragic event.
